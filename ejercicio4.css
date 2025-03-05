@@ -1,0 +1,15 @@
+body{
+    background-color:#D3DADE ;
+}
+p{
+  background-color: #B5C2C8;  
+}
+h2{
+    color: #434F55;
+    background-color: #7B919D;
+    text-decoration: underline;
+}
+#correo{
+    background-color: #FFFFFF;
+    text-align: right;
+}

@@ -1,0 +1,40 @@
+figcaption{
+    color: #F9E7CF;
+    font-size: 15px;
+}
+p{
+    text-align: justify;
+    margin: 30px;
+}
+h2{
+   
+    background-color: #808080;
+    color: #ffff;
+    margin: 30px;
+    padding-left: 10px;
+}
+.encabezadoP{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.principal{
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #D3D3D3;
+    box-shadow: 0 0 5px 2px #D5D5D5;
+}
+.negrita{
+    font-weight: bold;
+    margin-left: 20px;
+}
+.rojo{
+    color:#ED1C24;
+    font-style:italic;
+}
+.punteado{
+    text-decoration: line-through;
+}
+.logo{
+    float: left;
+}

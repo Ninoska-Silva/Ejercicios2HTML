@@ -1,0 +1,44 @@
+.contenedor{
+    box-shadow: 0 0 5px 2px #D5D5D5;
+    width: fit-content;
+    padding: 20px;
+    margin: 20px;
+}
+.negra{
+    font-size: 40px;
+    vertical-align: top;
+} 
+.azul{
+    color: #0000FF;
+}
+.verde{
+    color:#00A300;
+    font-size: 40px;
+}
+.arriba{
+    vertical-align:top;
+}
+.superior{
+    vertical-align: super;
+}
+.abajo{
+    vertical-align: sub;
+}
+.bajo{
+    vertical-align: text-top;
+}
+#tamanoUno{
+    font-size: 80px;
+}
+#tamanoDos{
+    font-size: 40px;
+}
+#tamanoTres{
+    font-size: 35px;
+}
+#tamanoCuatro{
+    font-size: 20px;
+}
+#tamanoCinco{
+    font-size: 15px;
+}

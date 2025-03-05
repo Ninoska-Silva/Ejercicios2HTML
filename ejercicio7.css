@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+div{
+    box-shadow: 0 0 5px 2px #7d7c7c;
+    border-radius: 3px;
+    background: #EEEEEE;
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    background:#CCCCCC;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    background:#888888;
+    color: red;
+}
+.azul{
+    color:blue;
+    
+}
+.verde{
+    color:#24892B;
+}
+.subrayado{
+    text-decoration: underline;
+}
+.cursiva{
+    font-style: italic;
+}
+

@@ -1,0 +1,47 @@
+/*Archivo CSS Ejercicio 8*/
+body{
+    text-align: justify;
+    line-height: 1.5em;/*Espacio entre lineas*/
+}
+p{
+    text-indent: 30px;/*sangria*/
+    font-family:calibri;
+}
+div{
+    box-shadow: 0 0 5px 2px #7d7c7c;
+    border-radius: 5px;
+    background:#c6d9eee6;
+    margin: 10px;
+    padding: 10px;
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+}
+/* 'importamos la fuente descargada' */
+@font-face {
+    font-family: 'comic';
+    src: url(../tarea2/fuentes/comic.ttf);
+}
+/* 'comic sans ms' */
+.comic{
+    font-family: 'comic';
+    color:red;
+}
+.derecha{
+    text-align: right;
+}
+.negrita{
+    font-weight: bold;
+}
+.verde{
+    color:#24892B;
+    background:white;
+    font-style: italic;
+}
+.naranja{
+    color:orange;
+}
+.chocolate{
+    font-style: oblique;
+    color:chocolate
+}

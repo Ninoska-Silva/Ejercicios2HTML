@@ -1,0 +1,25 @@
+
+.principal{
+    box-shadow: 0 0 5px 2px #D5D5D5;
+    border-radius: 10px;
+    background: #C5E0EB;
+    margin: 10px;
+}
+h1{
+    text-decoration:underline;
+    text-align: center;
+    padding: 20px;
+  
+}
+h3{
+    background: #3F99BF;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+    text-align: justify;
+}
+.cursiva{
+    font-style: italic;
+    margin: 20px;
+}

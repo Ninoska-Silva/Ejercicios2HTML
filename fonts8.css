@@ -1,0 +1,19 @@
+/*Fichero CSS del 08_fuentes_letra*/
+
+
+/* 'Comic' */
+@font-face {
+    font-family: 'comic';
+    src: url(../fuentes/Comic.ttf);
+}
+
+
+/* 'Contra' */
+@font-face {
+    font-family: 'Contra';
+    src: url(../Fuentes/GLANCE.ttf);
+}
+
+/* 'glance' */
+.fuente_glance{font-family: 'glance';
+               font-size: 18px;}
